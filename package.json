@@ -1,14 +1,13 @@
 {
   "name": "magicpalette",
-  "version": "0.0.1",
+  "version": "0.0.10",
   "author": "Aman Thakur",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Athakurmsys/magicpalette"
+    "url": "https://github.com/Athakurmsys/magicpalette.git"
   },
-  
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/magicpalette"
+    "registry": "https://npm.pkg.github.com/Athakurmsys"
   },
   "license": "MIT",
   "scripts": {
