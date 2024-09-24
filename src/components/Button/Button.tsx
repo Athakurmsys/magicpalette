@@ -1,6 +1,6 @@
 import React,{FC, forwardRef} from "react";
 import {Button as MUIButton, ButtonProps as MUIButtonProps} from "@material-ui/core"
-import { cn } from "../../helper/cn";
+import { cn } from "../../helper/csx";
 
 export interface MyButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {}
 export interface ButtonProps extends MUIButtonProps {}
