@@ -2,6 +2,11 @@
   "name": "magicpalette",
   "version": "0.0.1",
   "author": "Aman Thakur",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Athakurmsys/magicpalette"
+  },
+  
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/magicpalette"
   },
